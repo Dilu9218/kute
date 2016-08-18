@@ -1,12 +1,12 @@
 # kute
 Commute app for Sri Lanka
 
-Kute is currently implemented for trains. The user can update the current location of a train in Sri Lanka and also view the expected time a particular train arrives at the nearest station.
+Kute is currently implemented for trains. The user can update the current location of a train in Sri Lanka and also view the expected time a particular train arrives at the nearest station. 
 
 
 ## Installation
 
-1. Go to your terminal and execute this command
+Go to your terminal and execute this command
 
 git clone https://github.com/scorelab/kute.git
 
@@ -20,3 +20,9 @@ download the zip file.
 5. Run and build the Gradle.
 6. If Gradle finishes to build without error run the project by clicking on the play button on the tool bar.
 7. Wait for a few seconds and the app should start on your device(android phone or emulator)
+8. Make sure you are connected to internet.
+
+## License
+
+This project is licensed under the terms of the Apache License 2.0.
+ 
